@@ -1,6 +1,3 @@
-KEY = {
-}
-
 # Define a method that takes an array of numbers to decode
 KEY = {
   1 => 'A',
