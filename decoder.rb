@@ -9,8 +9,13 @@ KEY = {
   7 => 'G',
   8 => 'H',
   9 => 'I',
+<<<<<<< HEAD
   10 => 'J',
   11 => 'K',
+=======
+  25 => 'Y',
+  26 => 'Z',
+>>>>>>> master
 }
 
 # Define a method that takes an array of numbers to decode.
